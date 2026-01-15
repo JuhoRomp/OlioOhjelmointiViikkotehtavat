@@ -1,0 +1,3 @@
+Minun piti tehdä tuo destructor ja hakea nuo limits chatgpt:n avulla, koska en 
+löytänyt luennon avulla mitään tapaa poistaa enteriä sieltä puskurista ja että
+saan kaikki debugit mitä myös destructor tekee ennen kuin ohjelma pysähtyy
